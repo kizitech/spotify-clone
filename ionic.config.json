@@ -1,0 +1,8 @@
+{
+  "name": "Spotify Clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "71a2fa7c"
+}
