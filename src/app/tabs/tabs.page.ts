@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component  } from '@angular/core';
+import { FormBuilder, FormGroup } from '@angular/forms';
 
 @Component({
   selector: 'app-tabs',
@@ -8,5 +9,10 @@ import { Component } from '@angular/core';
 export class TabsPage {
 
   constructor() {}
+
+ 
+
+  
+
 
 }
